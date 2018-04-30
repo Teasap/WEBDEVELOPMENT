@@ -1,0 +1,10 @@
+With the popularity of Internet and e-commerce, the number of shopping websites has rapidly increased on the Internet, and this
+enables people to shop easily through the Internet. Consumers spend a lot of time searching commodity, because they need to filter
+and compare search results data by themselves. In recent years, there is a growing parity websites helping consumers to buy cheaper
+commodity. Although these websites can help consumers get the parity price of commodities, the search results are not so ideal. Because
+these websites may occur problems about the difference commodity between search results and consumers want to search, or the difference
+commodity price between search results and commodity web page. Therefore, this study attempts to use semantic analysis, ontology, and 
+web mining technique as a basic approach. This study proposes a novel commodity search system to track consumer demand, and that is, when
+the commodity price of any website is lower than the consumer price conditions, the system will proactively notify consumers. This study
+results indicate that the novel commodity search system could assist consumers to search commodity, and provide historical price information
+of commodity for consumers to decide.
